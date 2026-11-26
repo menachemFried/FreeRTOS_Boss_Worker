@@ -1,0 +1,145 @@
+[submodule "Project/Lib/STM32CubeF7/Drivers/STM32F7xx_HAL_Driver"]
+	path = Project/Lib/STM32CubeF7/Drivers/STM32F7xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32f7xx_hal_driver.git
+	branch = master
+[submodule "Project/Lib/STM32CubeF7/Drivers/CMSIS"]
+	path = Project/Lib/STM32CubeF7/Drivers/CMSIS
+	url = https://github.com/menachemFried/CubeF7_CMSIS.git
+	branch = V5.4.0_cm7_no_doc
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/STM32F7xx_Nucleo_144"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/STM32F7xx_Nucleo_144
+	url = https://github.com/STMicroelectronics/stm32f7xx-nucleo-144-bsp.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/STM32756G_EVAL"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/STM32756G_EVAL
+	url = https://github.com/STMicroelectronics/stm32756g-eval-bsp.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/Common"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/adv7533"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/adv7533
+	url = https://github.com/STMicroelectronics/stm32-adv7533.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ampire480272"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ampire480272
+	url = https://github.com/STMicroelectronics/stm32-ampire480272.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ampire640480"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ampire640480
+	url = https://github.com/STMicroelectronics/stm32-ampire640480.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/dp83848"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/dp83848
+	url = https://github.com/STMicroelectronics/stm32-dp83848.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/exc7200"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/exc7200
+	url = https://github.com/STMicroelectronics/stm32-exc7200.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft3x67"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft3x67
+	url = https://github.com/STMicroelectronics/stm32-ft3x67.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft5336"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft5336
+	url = https://github.com/STMicroelectronics/stm32-ft5336.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft6x06"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ft6x06
+	url = https://github.com/STMicroelectronics/stm32-ft6x06.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/lan8742"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/lan8742
+	url = https://github.com/STMicroelectronics/stm32-lan8742.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/mfxstm32l152"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/mfxstm32l152
+	url = https://github.com/STMicroelectronics/stm32-mfxstm32l152.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/mx25l512"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/mx25l512
+	url = https://github.com/STMicroelectronics/stm32-mx25l512.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/n25q128a"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/n25q128a
+	url = https://github.com/STMicroelectronics/stm32-n25q128a.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/n25q512a"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/n25q512a
+	url = https://github.com/STMicroelectronics/stm32-n25q512a.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/nt35510"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/nt35510
+	url = https://github.com/STMicroelectronics/stm32-nt35510.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/otm8009a"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/otm8009a
+	url = https://github.com/STMicroelectronics/stm32-otm8009a.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ov5640"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ov5640
+	url = https://github.com/STMicroelectronics/stm32-ov5640.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ov9655"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ov9655
+	url = https://github.com/STMicroelectronics/stm32-ov9655.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/rk043fn48h"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/rk043fn48h
+	url = https://github.com/STMicroelectronics/stm32-rk043fn48h.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/s5k5cag"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/s5k5cag
+	url = https://github.com/STMicroelectronics/stm32-s5k5cag.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/st7735"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/st7735
+	url = https://github.com/STMicroelectronics/stm32-st7735.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/st7789h2"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/st7789h2
+	url = https://github.com/STMicroelectronics/stm32-st7789h2.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/stmpe811"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/stmpe811
+	url = https://github.com/STMicroelectronics/stm32-stmpe811.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/ts3510"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/ts3510
+	url = https://github.com/STMicroelectronics/stm32-ts3510.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/wm8994"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/wm8994
+	url = https://github.com/STMicroelectronics/stm32-wm8994.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Drivers/BSP/Components/w25q128j"]
+	path = Project/Lib/STM32CubeF7/Drivers/BSP/Components/w25q128j
+	url = https://github.com/STMicroelectronics/stm32-w25q128j.git
+	branch = main
+[submodule "Project/Lib/STM32CubeF7/Middlewares/Third_Party/FreeRTOS"]
+	path = Project/Lib/STM32CubeF7/Middlewares/Third_Party/FreeRTOS
+	url = https://github.com/STMicroelectronics/stm32-mw-freertos
+	branch = master
+[submodule "Project/Lib/STM32CubeF7/Middlewares/Third_Party/LwIP"]
+	path = Project/Lib/STM32CubeF7/Middlewares/Third_Party/LwIP
+	url = https://github.com/STMicroelectronics/stm32-mw-lwip
+	branch = master
+[submodule "Project/Lib/STM32CubeF7/Middlewares/ST/STM32_USB_Device_Library"]
+	path = Project/Lib/STM32CubeF7/Middlewares/ST/STM32_USB_Device_Library
+	url = https://github.com/STMicroelectronics/stm32-mw-usb-device
+	branch = master
+[submodule "Project/Lib/STM32CubeF7/Middlewares/ST/STM32_USB_Host_Library"]
+	path = Project/Lib/STM32CubeF7/Middlewares/ST/STM32_USB_Host_Library
+	url = https://github.com/STMicroelectronics/stm32-mw-usb-host
+	branch = master
+[submodule "Project/Lib/SEGGER/Git/RTT"]
+	path = Project/Lib/SEGGER/Git/RTT
+	url = https://github.com/SEGGERMicro/RTT
+[submodule "Project/Lib/SEGGER/Git/SystemView"]
+	path = Project/Lib/SEGGER/Git/SystemView
+	url = https://github.com/SEGGERMicro/SystemView
+[submodule "Project/CubeMX_Project/Lib/FreeRTOS-Kernel"]
+	path = Project/CubeMX_Project/Lib/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
